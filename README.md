@@ -1,6 +1,7 @@
 # SVM-with-Kernels
 Support Vector Machines (SVM) with kernels
 
+<p>Dataset: https://archive.ics.uci.edu/ml/datasets/bank+marketing# </p>
 <p>Handle Missing Values and Outliers</p> 
 <p>Produce Q-Q Plots and Histograms of the features, and apply the transformations.</p>
 
